@@ -2,7 +2,7 @@
 
 ## 🎯 Objetivo
 
-¿Qué aprendí durante la práctica?Durante esta práctica se aprendió a comprender y configurar la arquitectura cliente-servidor de un Sistema de Gestión de Base de Datos (SGBD) en un entorno Linux. Específicamente, se entendió cómo administrar paquetes del sistema, verificar y controlar servicios en segundo plano mediante systemctl, identificar procesos y puertos de red activos, y realizar conexiones locales para ejecutar consultas SQL básicas utilizando herramientas de consola.
+¿Qué aprendí durante la práctica?Durante esta práctica se aprendió a entender y configurar el cliente-servidor de un Sistema de Gestión de Base de Datos (SGBD). Específicamente, se entendió cómo administrar paquetes del sistema, controlar servicios en segundo plano mediante systemctl, identificar puertos de red activos, y realizar conexiones locales para ejecutar consultas SQL básicas utilizando herramientas de consola.
     
 ## 🐧 Entorno
 
