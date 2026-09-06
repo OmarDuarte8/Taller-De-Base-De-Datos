@@ -60,57 +60,57 @@ ayudo a entender como crear una base de datos,  analizando qué información se 
 
 CAPTURAS
 
-Terminal con acceso al SGBD.
 
-![Mi Foto](img/TerminalconaccesoalSGBD.png)
+
+![Terminal con acceso al SGBD.](img/TerminalconaccesoalSGBD.png)
 
 Captura donde muestro el momento en que inicié sesión correctamente en la terminal de MySQL o MariaDB con mi usuario.
 
-Creación de la base de datos.
 
-![Mi Foto](img/CreateDataBase.png)
+
+![Creación de la base de datos.](img/CreateDataBase.png)
 
 Captura donde ejecuto la sentencia CREATE DATABASE transporte_escolar;.
 
-SHOW DATABASES.
 
-![Mi Foto](img/SHOWDATABASES.png)
+
+![SHOW DATABASES.](img/SHOWDATABASES.png)
 
 Captura donde muestro el listado de las bases de datos del servidor para comprobar que transporte_escolar se creó de forma correcta.
 
-USE.
-
-![Mi Foto](img/CreateDataBase.png)
 
 
-Creación de la primera tabla.
-
-![Mi Foto](img/CreateDataBase.png)
+![USE.](img/CreateDataBase.png)
 
 
-Creación de la segunda tabla.
-
-![Mi Foto](img/CreateDataBase.png)
 
 
-SHOW TABLES.
-
-![Mi Foto](img/CreateDataBase.png)
+![Creación de la primera tabla.](img/CreateDataBase.png)
 
 
-DESCRIBE de las tablas.
-
-![Mi Foto](img/CreateDataBase.png)
 
 
-Modificación mediante ALTER TABLE.
-
-![Mi Foto](img/CreateDataBase.png)
+![Creación de la segunda tabla.](img/CreateDataBase.png)
 
 
-Verificación final.
 
-![Mi Foto](img/CreateDataBase.png)
+
+![SHOW TABLES.](img/CreateDataBase.png)
+
+
+
+
+![DESCRIBE de las tablas.](img/CreateDataBase.png)
+
+
+
+
+![Modificación mediante ALTER TABLE.](img/CreateDataBase.png)
+
+
+
+
+![Verificación final.](img/CreateDataBase.png)
 
 
 
