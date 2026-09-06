@@ -60,53 +60,61 @@ ayudo a entender como crear una base de datos,  analizando qué información se 
 
 CAPTURAS
 
-
+Terminal con acceso al SGBD.
 
 ![Terminal con acceso al SGBD.](img/TerminalconaccesoalSGBD.png)
 
 Captura donde muestro el momento en que inicié sesión correctamente en la terminal de MySQL o MariaDB con mi usuario.
 
-
+Creación de la base de datos.
 
 ![Creación de la base de datos.](img/CreateDataBase.png)
 
 Captura donde ejecuto la sentencia CREATE DATABASE transporte_escolar;.
 
-
+SHOW DATABASES.
 
 ![SHOW DATABASES.](img/SHOWDATABASES.png)
 
 Captura donde muestro el listado de las bases de datos del servidor para comprobar que transporte_escolar se creó de forma correcta.
 
-
+USE.
 
 ![USE.](img/USE.png)
 
 Captura donde muestro la ejecución del comando USE transporte_escolar; para establecer la base de datos activa.
 
+Creación de la primera tabla.
 
 ![Creación de la primera tabla.](img/Creacióndelaprimeratabla.png)
 
 Captura donde ejecuto el código de CREATE TABLE rutas con sus respectivos campos y su clave primaria.
 
+Creación de la segunda tabla.
 
 ![Creación de la segunda tabla.](img/Creacióndelasegundatabla..png)
 
 Captura donde ejecuto la creación de la tabla choferes con su estructura correspondiente.
 
+SHOW TABLES.
 
 ![SHOW TABLES.](img/SHOWTABLES.png)
 
 Captura donde muestro el listado de las tablas dentro de la base de datos para confirmar que ambas (rutas y choferes) existen.
 
+DESCRIBE de las tablas.
 
 ![DESCRIBE de las tablas.](img/DESCRIBEdelastablas.png)
 
 Captura donde muestro la estructura detallada mediante DESCRIBE rutas; para comprobar los campos, tipos de datos y llaves primarias.
 
+
+
 ![DESCRIBE de las tablas.](img/DESCRIBEdelastablas2.png)
 
 Captura donde muestro la estructura detallada de la otra tabla usando DESCRIBE choferes;
+
+Modificación mediante ALTER TABLE.
 
 ![Modificación mediante ALTER TABLE.](img/ModificaciónmedianteALTERTABLE.png)
 
