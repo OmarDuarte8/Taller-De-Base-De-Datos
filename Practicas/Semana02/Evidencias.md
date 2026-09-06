@@ -60,4 +60,4 @@ ayudo a entender como crear una base de datos,  analizando qué información se 
 
 CAPTURAS
 
-![Mi Foto](/home/omar8/Taller-De-Base-De-Datos/Practicas/Semana02/img/CreateDataBase.png)
+![Mi Foto](img/CreateDataBase.png)
