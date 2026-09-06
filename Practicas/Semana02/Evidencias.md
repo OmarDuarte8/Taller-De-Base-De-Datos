@@ -74,7 +74,7 @@ Captura donde ejecuto la sentencia CREATE DATABASE transporte_escolar;.
 
 SHOW DATABASES.
 
-![SHOW DATABASES.](img/SHOWDATABASES.png)
+![SHOWDATABASES.](img/SHOWDATABASES.png)
 
 Captura donde muestro el listado de las bases de datos del servidor para comprobar que transporte_escolar se creó de forma correcta.
 
@@ -98,7 +98,7 @@ Captura donde ejecuto la creación de la tabla choferes con su estructura corres
 
 SHOW TABLES.
 
-![SHOW TABLES.](img/SHOWTABLES.png)
+![SHOWTABLES.](img/SHOWTABLES.png)
 
 Captura donde muestro el listado de las tablas dentro de la base de datos para confirmar que ambas (rutas y choferes) existen.
 
