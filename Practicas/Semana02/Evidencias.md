@@ -58,4 +58,6 @@ Reflexión final
 ayudo a entender como crear una base de datos,  analizando qué información se necesita almacenar en el mundo real. Además, demostró la importancia de saber utilizar herramientas como DESCRIBE y comandos  como ALTER TABLE para cambiar nombres de las columnas.
 
 
+CAPTURAS
 
+![Mi Foto](/home/omar8/Taller-De-Base-De-Datos/Practicas/Semana02/img/CreateDataBase)
