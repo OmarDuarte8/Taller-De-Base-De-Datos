@@ -80,37 +80,42 @@ Captura donde muestro el listado de las bases de datos del servidor para comprob
 
 
 
-![USE.](img/CreateDataBase.png)
+![USE.](img/USE.png)
+
+Captura donde muestro la ejecución del comando USE transporte_escolar; para establecer la base de datos activa.
+
+
+![Creación de la primera tabla.](img/Creacióndelaprimeratabla.png)
+
+Captura donde ejecuto el código de CREATE TABLE rutas con sus respectivos campos y su clave primaria.
+
+
+![Creación de la segunda tabla.](img/Creacióndelasegundatabla..png)
+
+Captura donde ejecuto la creación de la tabla choferes con su estructura correspondiente.
+
+
+![SHOW TABLES.](img/SHOWTABLES.png)
+
+Captura donde muestro el listado de las tablas dentro de la base de datos para confirmar que ambas (rutas y choferes) existen.
+
+
+![DESCRIBE de las tablas.](img/DESCRIBEdelastablas.png)
+
+Captura donde muestro la estructura detallada mediante DESCRIBE rutas; para comprobar los campos, tipos de datos y llaves primarias.
+
+![DESCRIBE de las tablas.](img/DESCRIBEdelastablas2.png)
+
+Captura donde muestro la estructura detallada de la otra tabla usando DESCRIBE choferes;
+
+![Modificación mediante ALTER TABLE.](img/ModificaciónmedianteALTERTABLE.png)
+
+Captura donde muestro el comando que ejecuté para modificar la estructura de la tabla agregando o ajustando columnas.
 
 
 
 
-![Creación de la primera tabla.](img/CreateDataBase.png)
 
-
-
-
-![Creación de la segunda tabla.](img/CreateDataBase.png)
-
-
-
-
-![SHOW TABLES.](img/CreateDataBase.png)
-
-
-
-
-![DESCRIBE de las tablas.](img/CreateDataBase.png)
-
-
-
-
-![Modificación mediante ALTER TABLE.](img/CreateDataBase.png)
-
-
-
-
-![Verificación final.](img/CreateDataBase.png)
 
 
 
