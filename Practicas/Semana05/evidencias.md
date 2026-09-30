@@ -322,18 +322,28 @@ Combinación de dos o más condiciones simultáneas con el operador lógico AND.
 ![P5.](img/FP4.png)
 
 Pregunta 1 : Extracción de columnas específicas (nombre y licencia) de la tabla de choferes para mostrar únicamente la información esencial requerida por la dirección. 
+
 Pregunta 2 : Filtrado de registros en la tabla de rutas utilizando un operador de igualdad (=) para localizar aquellas que operan exclusivamente en el turno matutino.
+
 Pregunta 3 : Aplicación de un operador de comparación mayor que (>) para identificar a los choferes que cuentan con una experiencia laboral superior a 3 años.
+
 Pregunta 4 : Búsqueda de patrones de texto utilizando el operador LIKE junto con comodines (%) para encontrar choferes cuyo nombre contiene un fragmento específico.
+
 
 ![P5.](img/FP8.png)
 
 Pregunta 5 : Consulta acotada mediante el operador BETWEEN para obtener las rutas cuya capacidad de pasajeros se encuentra dentro de un rango numérico determinado. 
+
 Pregunta 6 : Verificación de pertenencia a un conjunto cerrado utilizando el operador IN para listar choferes asignados a rutas específicas. 
+
 Pregunta 7 : Identificación de registros con ausencia de datos mediante la cláusula IS NULL para detectar choferes que aún no tienen una ruta asignada. 
+
 Pregunta 8 : Extracción de valores categóricos únicos utilizando DISTINCT para mostrar los diferentes estados de contratación posibles sin repetir filas. 
+
 
 ![P5.](img/FP10.png)
 
 Pregunta 9 : Combinación de condiciones simultáneas con el operador lógico AND para filtrar choferes activos que además superan cierto nivel de experiencia. 
+
 Pregunta 10 : Presentación de resultados ordenados alfabéticamente de forma ascendente (ORDER BY ASC) basándose en el nombre de las rutas.
+
