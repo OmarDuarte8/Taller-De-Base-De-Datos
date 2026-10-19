@@ -1,8 +1,11 @@
 
 
 -- PRÁCTICA 06: FUNCIONES DE AGREGADO Y AGRUPAMIENTO
+
 -- Base de Datos: control_escolar
+
 -- Alumno: Omar Said Duarte Ruiz (242240010)
+
 
 
 USE control_escolar;
